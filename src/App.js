@@ -1,4 +1,5 @@
 import './App.css'
+import CardItem from './components/CardItem'
 
 const cardsList = [
   {
